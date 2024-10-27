@@ -28,6 +28,8 @@
 
 - 📫 Feel free to reach me out **nikizh007@gmail,com**
 
+- 🏫 Currently studying at <a href="https://bitsathy.ac.in">BIT</a>
+
 <!--Intro end-->
 
 
