@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **react, react-native, nodejs, mongoDB, Python**
 
-- 📫 Feel free to reach me out **nikizh007@gmail,com**
+- 📫 Feel free to reach me **contact@nikizh.rocks**
 
 - 🏫 Currently studying at <a href="https://bitsathy.ac.in">BIT</a>
 
